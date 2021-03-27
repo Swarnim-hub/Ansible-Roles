@@ -1,7 +1,7 @@
-Role Name
+Load Balancer By HaProxy
 =========
 
-A brief description of the role goes here.
+HAProxy (High Availability Proxy) is a TCP/HTTP load balancer and proxy server that allows a webserver to spread incoming requests across multiple endpoints. This is useful in cases where too many concurrent connections over-saturate the capability of a single server.
 
 Requirements
 ------------
